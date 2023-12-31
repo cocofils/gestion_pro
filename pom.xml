@@ -26,6 +26,9 @@
     <sonar.login>7b5d613973719c8d668154e37e84b7e4fea21ba2</sonar.login>
 
     <powermock.version>2.0.2</powermock.version>
+           <sonar.host.url>http://52.14.105.189:9000/</sonar.host.url> 
+		<sonar.login>admin</sonar.login>
+		<sonar.password>cocofils</sonar.password>
   </properties>
 
   <dependencies>
